@@ -4,5 +4,5 @@ This project demonstrates how to use Long Short-Term Memory (LSTM) neural networ
 
 **Disclaimer:** This project is intended for educational and learning purposes only. It should not be used for making real financial decisions. Cryptocurrency markets are highly volatile, and predictions may not be accurate.
 
-For a detailed explanation of the code and its components, please refer to [this link](https://phinance.up.railway.app/btc-prediction).
+For a detailed explanation of the code and its components, please refer to [this link](https://phinancecrypto.com/crypto-prediction).
 
